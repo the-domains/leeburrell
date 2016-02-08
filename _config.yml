@@ -1,4 +1,4 @@
-name: LeeBurrell
+name: Lee Burrell
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.8093
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f2f7fd'
     - '#000000'
-    - '#8d7978'
-    - '#4d3a34'
-    - '#ddc692'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#ffffff'
+    - '#202020'
+    - '#a8a8a8'
+    - '#d0d0d0'
+  brandStrength: 1
+  lightness: 0.4375
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
